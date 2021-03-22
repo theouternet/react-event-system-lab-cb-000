@@ -1,4 +1,4 @@
-import React from 'react';
+	import React from 'react';
 
 class Keypad extends React.Component {
 
@@ -16,4 +16,4 @@ class Keypad extends React.Component {
     }
 }
 
-export default Keypad;  
+export default Keypad;
